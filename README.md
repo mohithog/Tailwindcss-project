@@ -1,1 +1,1 @@
-// practicfe project using tailwindcss
+// practice project using tailwindcss
